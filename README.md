@@ -31,8 +31,3 @@ Premier League 2018-2019 Season Stats Analysis
 
 ## Scenario
 Imagine you're a sports analyst working for a prestigious football club in the English Premier League. Your team is determined to dominate the upcoming season, and they've tasked you with diving deep into the statistics of the 2018-2019 season to uncover winning strategies. By analyzing the dataset, you aim to identify which teams performed best at home and away, assess the impact of goals scored in different halves, and gain insights into disciplinary patterns and referee tendencies. Armed with these insights, your club aims to fine-tune its approach for the season ahead, with the ultimate goal of lifting the championship trophy.
-
-## DataCamp Workspace
-
-Since I made this project through the DataCamp Workspace, you can also examine the project from there.
-[[DataCamp Workspace Link](https://app.datacamp.com/workspace/w/243f9b6a-71aa-4529-bfe7-1cf9327178f7)]
