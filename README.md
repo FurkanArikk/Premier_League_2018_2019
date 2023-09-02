@@ -35,4 +35,4 @@ Imagine you're a sports analyst working for a prestigious football club in the E
 ## DataCamp Workspace
 
 Since I made this project through the DataCamp Workspace, you can also examine the project from there.
-[[DataCamp Workspace Link](https://app.datacamp.com/workspace/w/243f9b6a-71aa-4529-bfe7-1cf9327178f7)](https://app.datacamp.com/workspace/w/7183de33-0656-46cc-9c61-07649386e722/edit)https://app.datacamp.com/workspace/w/7183de33-0656-46cc-9c61-07649386e722/edit
+[DataCamp Workspace Link](https://app.datacamp.com/workspace/w/243f9b6a-71aa-4529-bfe7-1cf9327178f7)
